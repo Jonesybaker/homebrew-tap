@@ -1,8 +1,8 @@
 class LordOfTheClaudes < Formula
   desc "Menu bar app that tracks Claude Code sessions in Ghostty and reopens them"
   homepage "https://github.com/Jonesybaker/lord-of-the-claudes"
-  url "https://github.com/Jonesybaker/lord-of-the-claudes/archive/refs/tags/v1.4.1.tar.gz"
-  sha256 "682009e22acb705ce9157976a4e24704542556450d80d4c6068c0a23fff7c12d"
+  url "https://github.com/Jonesybaker/lord-of-the-claudes/archive/refs/tags/v1.5.0.tar.gz"
+  sha256 "11c7d5990e9e7e1a11f2aeac7570f4926873f2e23a67d4721a90bdd8acfc7928"
   license "MIT"
 
   depends_on macos: :sonoma
